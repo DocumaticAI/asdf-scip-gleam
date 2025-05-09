@@ -92,6 +92,8 @@ get_release_nugget() {
 		;;
 	arm*-linux)
 	  nugget='aarch64-unknown-linux-musl' ;;
+	aarch64-linux)
+	  nugget='aarch64-unknown-linux-musl' ;;
 	x86_64-linux)
 		nugget='x86_64-unknown-linux-musl'
 		;;
