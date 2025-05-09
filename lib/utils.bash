@@ -112,7 +112,7 @@ get_release_nugget() {
 
 get_archive_name() {
 	local version="$1"
-	echo "scip-gleam-${version}-$(get_release_nugget).tar.gz"
+	echo "scip-gleam-v${version}-$(get_release_nugget).tar.gz"
 }
 
 get_download_url() {
