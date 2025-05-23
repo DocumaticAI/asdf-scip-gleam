@@ -1,8 +1,8 @@
 <div align="center">
 
-# asdf-scip-gleam [![Build](https://github.com/DocumaticAI/asdf-scip-gleam/actions/workflows/build.yml/badge.svg)](https://github.com/DocumaticAI/asdf-scip-gleam/actions/workflows/build.yml) [![Lint](https://github.com/DocumaticAI/asdf-scip-gleam/actions/workflows/lint.yml/badge.svg)](https://github.com/DocumaticAI/asdf-scip-gleam/actions/workflows/lint.yml)
+# asdf-scip-gleam [![Build](https://github.com/rover-app/asdf-scip-gleam/actions/workflows/build.yml/badge.svg)](https://github.com/rover-app/asdf-scip-gleam/actions/workflows/build.yml) [![Lint](https://github.com/rover-app/asdf-scip-gleam/actions/workflows/lint.yml/badge.svg)](https://github.com/rover-app/asdf-scip-gleam/actions/workflows/lint.yml)
 
-[scip-gleam](https://github.com/DocumaticAI/scip-gleam) plugin for the [asdf version manager](https://asdf-vm.com).
+[scip-gleam](https://github.com/rover-app/scip-gleam) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -27,7 +27,7 @@ Plugin:
 ```shell
 asdf plugin add scip-gleam
 # or
-asdf plugin add scip-gleam https://github.com/DocumaticAI/asdf-scip-gleam.git
+asdf plugin add scip-gleam https://github.com/rover-app/asdf-scip-gleam.git
 ```
 
 scip-gleam:
@@ -53,8 +53,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/DocumaticAI/asdf-scip-gleam/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/rover-app/asdf-scip-gleam/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Documatic](https://github.com/DocumaticAI/)
+See [LICENSE](LICENSE) © [Rover](https://github.com/rover-app/)

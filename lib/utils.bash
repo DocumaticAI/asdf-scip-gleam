@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/DocumaticAI/scip-gleam"
+GH_REPO="https://github.com/rover-app/scip-gleam"
 TOOL_NAME="scip-gleam"
 TOOL_TEST="scip-gleam --version"
 
